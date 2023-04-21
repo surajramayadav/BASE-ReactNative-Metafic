@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.karna">
+  package="com.startbt.dream11.prediction">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

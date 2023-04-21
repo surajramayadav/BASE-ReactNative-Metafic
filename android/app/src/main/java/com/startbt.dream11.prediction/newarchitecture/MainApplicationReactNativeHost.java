@@ -1,4 +1,4 @@
-package com.karna.newarchitecture;
+package com.startbt.dream11.prediction.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.karna.BuildConfig;
-import com.karna.newarchitecture.components.MainComponentsRegistry;
-import com.karna.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.startbt.dream11.prediction.BuildConfig;
+import com.startbt.dream11.prediction.newarchitecture.components.MainComponentsRegistry;
+import com.startbt.dream11.prediction.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

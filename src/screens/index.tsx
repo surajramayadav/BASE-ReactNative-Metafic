@@ -1,10 +1,10 @@
-import LoginScreen from './auth/login'
-import RegisterScreen from './auth/register';
-import SplashScreen from './boarding/splash';
-import HomeScreen from './home/home';
-import ChatScreen from './home/chat'
-import ProfileScreen from './home/profile'
-import SearchScreen from './home/search'
+import LoginScreen from './auth/login/login'
+import RegisterScreen from './auth/register/register';
+import SplashScreen from './boarding/splash/splash';
+import HomeScreen from './home/home/home';
+import ChatScreen from './home/chat/chat'
+import ProfileScreen from './home/profile/profile'
+import SearchScreen from './home/search/search'
 
 
 export {

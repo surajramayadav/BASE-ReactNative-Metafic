@@ -18,7 +18,7 @@ function MyTabBar({ state, descriptors, navigation }: any) {
 
         }}>
 
-            {state.routes.map((route, index) => {
+            {state.routes.map((route: any, index: number) => {
                 const { options } = descriptors[route.key];
                 // console.log("options=>", options.tabBarTestID, index, route)
                 const label =

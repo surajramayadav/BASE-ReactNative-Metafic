@@ -1,6 +1,6 @@
 import React from 'react'
 import { SafeAreaView, StatusBar, useColorScheme } from 'react-native'
-import { Colors } from '../../../utils';
+import { Colors } from '../../utils';
 
 export default function Wrapper({ children }: any) {
     const scheme = useColorScheme();

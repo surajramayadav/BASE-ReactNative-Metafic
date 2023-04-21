@@ -1,4 +1,4 @@
-package com.karna.newarchitecture.components;
+package com.startbt.dream11.prediction.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

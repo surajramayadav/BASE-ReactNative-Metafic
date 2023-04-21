@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface karnaTests : XCTestCase
+@interface startbt.dream11.predictionTests : XCTestCase
 
 @end
 
-@implementation karnaTests
+@implementation startbt.dream11.predictionTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {

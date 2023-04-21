@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "karna.app"
-               BlueprintName = "karna"
-               ReferencedContainer = "container:karna.xcodeproj">
+               BuildableName = "startbt.dream11.prediction.app"
+               BlueprintName = "startbt.dream11.prediction"
+               ReferencedContainer = "container:startbt.dream11.prediction.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "karnaTests.xctest"
-               BlueprintName = "karnaTests"
-               ReferencedContainer = "container:karna.xcodeproj">
+               BuildableName = "startbt.dream11.predictionTests.xctest"
+               BlueprintName = "startbt.dream11.predictionTests"
+               ReferencedContainer = "container:startbt.dream11.prediction.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "karna.app"
-            BlueprintName = "karna"
-            ReferencedContainer = "container:karna.xcodeproj">
+            BuildableName = "startbt.dream11.prediction.app"
+            BlueprintName = "startbt.dream11.prediction"
+            ReferencedContainer = "container:startbt.dream11.prediction.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "karna.app"
-            BlueprintName = "karna"
-            ReferencedContainer = "container:karna.xcodeproj">
+            BuildableName = "startbt.dream11.prediction.app"
+            BlueprintName = "startbt.dream11.prediction"
+            ReferencedContainer = "container:startbt.dream11.prediction.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

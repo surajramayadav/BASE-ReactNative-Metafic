@@ -1,7 +1,7 @@
 import React from 'react';
 import { createDrawerNavigator } from '@react-navigation/drawer';
-import CustomDrawerContent from '../../components/routes/drawerComponent';
-import BottomTabs from '../tabs';
+import CustomDrawerContent from '../../components/routes/drawerComponent/drawerComponent';
+import BottomTabs from '../tabs/tabs';
 import { NavigationDrawer, NavigationType } from '../navigationType';
 import { ProfileScreen } from '../../screens';
 const DrawerApp = createDrawerNavigator();

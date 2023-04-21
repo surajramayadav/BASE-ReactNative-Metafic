@@ -3,8 +3,8 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { NavigationType } from './navigationType';
 import { HomeScreen, LoginScreen, SplashScreen } from '../screens';
-import BottomTabs from './tabs';
-import Drawer from './drawer';
+import BottomTabs from './tabs/tabs';
+import Drawer from './drawer/drawerRoute';
 
 
 const Stack: any = createNativeStackNavigator();

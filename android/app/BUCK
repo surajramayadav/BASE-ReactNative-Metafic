@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.karna",
+    package = "com.startbt.dream11.prediction",
 )
 
 android_resource(
     name = "res",
-    package = "com.karna",
+    package = "com.startbt.dream11.prediction",
     res = "src/main/res",
 )
 

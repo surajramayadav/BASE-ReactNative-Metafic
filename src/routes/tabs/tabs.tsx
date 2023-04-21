@@ -4,7 +4,7 @@ import { Text, View, TouchableOpacity } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 
-import MyTabBar from '../../components/routes/tabComponent';
+import MyTabBar from '../../components/routes/tabComponent/tabComponent';
 import { ChatScreen, HomeScreen, ProfileScreen, SearchScreen } from '../../screens';
 import { NavigationTab } from '../navigationType';
 
